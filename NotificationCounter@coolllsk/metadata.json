@@ -4,9 +4,10 @@
   "name": "Notification Counter",
   "shell-version": [
     "46",
-    "47"
+    "47",
+    "48"
   ],
   "url": "https://github.com/vkrizan/NotificationCounter",
   "uuid": "NotificationCounter@coolllsk",
-  "version": 10
+  "version": 11
 }
